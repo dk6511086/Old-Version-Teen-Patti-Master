@@ -153,51 +153,46 @@ background-color: #1ad526;
 
 .pg1{
   font-size: .6rem;
- margin-left: 1.3rem;
+ margin-left: .8rem;
  color: #ffffff;
- border: solid .05rem rgb(155, 151, 145);
  padding-right: .3rem;
  padding-left: .3rem;
- border-radius: .3rem;
+text-decoration: underline;
 }
 
 .pg2{
   font-size: .6rem;
  margin-left: 1rem;
  color: #ffffff;
- border: solid .05rem rgb(155, 151, 145);
  padding-right: .2rem;
  padding-left: .2rem;
- border-radius: .3rem;
+text-decoration: underline;
 }
 
 .pg3{
   font-size: .6rem;
  margin-left: 1rem;
  color: #ffffff;
- border: solid .05rem rgb(155, 151, 145);
  padding-right: .2rem;
  padding-left: .2rem;
- border-radius: .3rem;
+text-decoration: underline;
 }
 
 .pg4{
   font-size: .6rem;
  margin-left: 2.5rem;
  color: #ffffff;
- border: solid .05rem rgb(155, 151, 145);
  padding-right: .2rem;
  padding-left: .2rem;
- border-radius: .3rem;
+text-decoration: underline;
 }
 
 .pg5{
   font-size: .6rem;
  margin-left: 1rem;
- border: solid .05rem rgb(155, 151, 145);
  padding-right: .2rem;
  padding-left: .2rem;
- border-radius: .3rem;
+text-decoration: underline;
  color: #ffffff;
 }
 
